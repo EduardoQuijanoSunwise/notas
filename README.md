@@ -1,2 +1,2 @@
 # notas
-apuntes de python, docker, etc
+apuntes de python, docker, git, etc
